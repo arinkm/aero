@@ -13,6 +13,7 @@
 ![image](https://user-images.githubusercontent.com/115191409/194425539-8490f400-7bac-4419-aeea-e3c419b5b15a.png)
 
 4. Проводим симуляцию нашего портфеля 
+
 ![image](https://user-images.githubusercontent.com/115191409/194425641-f267f141-7c68-489c-a64d-3dcb2f60bacb.png)
 
 5. Строим график для визуализации 
